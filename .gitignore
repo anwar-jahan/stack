@@ -13,3 +13,8 @@ gradle/
 gradlew
 gradlew.bat
 settings.gradle
+bin
+.bin
+.class
+*.classpath
+
